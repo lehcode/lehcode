@@ -3,7 +3,7 @@
 I'm a **Fullstack Developer** with a strong focus on **TypeScript**, **Vue.js**, **Angular**, and **NestJS**. I love building scalable, performant applications and exploring modern web technologies. My work spans across frontend, backend, AI integrations, and developer tooling.
 
 ### 🚀 What I’m Working On
-- **Modern Web Applications** – Building **admin panels**, **UI components**, and **monorepo solutions** using **Vue.js, Angular, and NestJS**.
+- **Modern Web Applications** – Building **admin panels**, **UI components**, and **monorepo solutions** using **Vue.js, Angular, React, and NestJS**.
 - **AI & Automation** – Exploring **AI-driven** development with projects like **openhands**, and **GPT-based tools**.
 - **Fullstack Systems** – Developing **delivery service UIs**, **error detection platforms**, and **custom CMS solutions**.
 
