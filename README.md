@@ -22,3 +22,5 @@ I'm a **Fullstack Developer** with a strong focus on **TypeScript**, **Vue.js**,
 - **DevOps & Tools**: Docker, NX, CI/CD, Bitbucket Pipelines  
 
 ---
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcode)](https://github.com/lehcode)
