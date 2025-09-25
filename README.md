@@ -1,4 +1,4 @@
-# Antony Repin — Engineer & Digital Architect
+# Engineering & Digital Architect
 
 I architect and build production-ready applications with a focus on **TypeScript**, **security**, and **modern web technologies**. My engineering approach emphasizes clean architecture, developer experience, and systems that scale gracefully—*and fail gracefully!*
 
