@@ -1,25 +1,42 @@
-# Hi there! 👋 I'm Antony
+# Antony Repin — Engineer & Digital Architect
 
-I'm a **Fullstack Developer** with a strong focus on **TypeScript**, **Vue.js**, **Angular**, and **NestJS**. I love building scalable, performant applications and exploring modern web technologies. My work spans across frontend, backend, AI integrations, and developer tooling.
+I architect and build production-ready applications with a focus on **TypeScript**, **security**, and **modern web technologies**. My engineering approach emphasizes clean architecture, developer experience, and systems that scale gracefully—*and fail gracefully!*
 
-### 🚀 What I’m Working On
-- **Modern Web Applications** – Building **admin panels**, **UI components**, and **monorepo solutions** using **Vue.js, Angular, React, and NestJS**.
-- **AI & Automation** – Exploring **AI-driven** development with projects like **openhands**, and **GPT-based tools**.
-- **Fullstack Systems** – Developing **delivery service UIs**, **error detection platforms**, and **custom CMS solutions**.
+## 🚀 What I Build
 
-### 🔥 Notable Projects
-- **md-admin** – A headless CMS for managing Markdown files.
-- **angular-fullstack-pro-starter** – A NestJS + Angular starter kit with i18n, Redis, and MongoDB support.
-- **svelte-url-shortener** – A simple URL shortener with Cloudflare deployment.
-- **delivery-admin-ui & delivery-laravel** – Admin panel and backend for a delivery service.
-- **expenses-tracker-angular** – A personal finance tracking app in Angular.
-- **flutter-dock-buttons** – An animated dock UI for Flutter apps.
+These repositories are my playground, sandbox, and production experiments. Each project represents a different facet of modern web engineering:
 
-### 📌 Technologies & Interests
-- **Frontend**: Vue 3, Nuxt, Angular, React, Svelte  
-- **Backend**: NestJS, Node.js, Laravel  
-- **AI & Automation**: OpenAI, LangChain, LLMs  
-- **DevOps & Tools**: Docker, NX, CI/CD, Bitbucket Pipelines  
+**[N8N Deploy Manager](https://github.com/lehcode/n8n-deploy)** — 🔧 Workflow Orchestration
+*Because deploying workflows shouldn't be a workflow itself.* Python-based automation with SQLite metadata and sensible CLI design.
+
+**[Angular Fullstack Pro](https://github.com/lehcode/angular-fullstack-pro-starter)** — 🏗️ Enterprise Architecture
+*The starter I wish I had years ago. And I had.* NestJS + Angular foundation with MongoDB, Redis, i18n—everything configured properly from day one.
+
+**[Carvin](https://github.com/lehcode/carvin)** — 🚗 Vehicle Intelligence
+*Real-world problem, practical solution.* Angular/NestJS app that makes sense of VIN codes using NHTSA APIs.
+
+**[SOAKP](https://github.com/lehcode/soakp)** — 🔐 Secure OpenAI API Proxy
+*When you need to talk to AI safely.* JWT authentication, API key rotation, and security patterns that actually work in production.
+
+## 📌 Engineering Philosophy
+
+> *"Inside every large program is a small program struggling to get out."* — Hoare's Law of Large Programs
+
+I believe great software comes from understanding that technology serves humans, not the other way around. My code reflects this through:
+
+- **Security by design** — Trust is earned through proper implementation
+- **Graceful degradation** — When things break (and they will), they break elegantly
+- **Developer happiness** — Tools that don't fight you but work with you
+- **Practical innovation** — New tech when it solves real problems, proven patterns when they work
+
+## 🔥 Current Stack & Interests
+
+**Core**: TypeScript, Angular, Vue.js, NestJS, Node.js
+**Security**: JWT patterns, API security, authentication flows
+**AI/LLM**: OpenAI integration, workflow automation, intelligent tooling
+**Infrastructure**: Docker, CI/CD, serverless architectures
+
+*This is where I experiment, learn, and occasionally build something useful.*  
 
 ---
 
