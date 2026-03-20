@@ -12,7 +12,7 @@ These repositories are my playground, sandbox, and production experiments. Each 
 **[Pimeleon Router Build System](https://github.com/pimeleon/pimeleon)** — 🛡️ Sovereign Edge OS
 *The core firmware and software platform for censorship-resistant Rapsberry Pi hardware.* A comprehensive build system that integrates modular services (tor, pihole-FTL, privoxy) into hardened, profile-based Debian builds for high-reliability networking at the edge.
 
-> :bulb: **Visit [Pimeleon.org](https://pimeleon.org)" for details. 
+> :bulb: **Visit [Pimeleon.org](https://pimeleon.org)** for details. 
 Give that repo a star to help support your network privacy!
 
 **[Pimeleon App Factory](https://github.com/pimeleon/pi-router-apps)** — 📦 Cross-Compilation Engine
