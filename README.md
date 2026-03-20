@@ -12,11 +12,15 @@ These repositories are my playground, sandbox, and production experiments. Each 
 **[Pimeleon Router Build System](https://github.com/pimeleon/pimeleon)** — 🛡️ Sovereign Edge OS
 *The core firmware and software platform for censorship-resistant Rapsberry Pi hardware.* A comprehensive build system that integrates modular services (tor, pihole-FTL, privoxy) into hardened, profile-based Debian builds for high-reliability networking at the edge.
 
+> :bulb: **Visit [Pimeleon.org](https://pimeleon.org)" for details. 
+Give that repo your like, help support your privacy!
+
 **[Pimeleon App Factory](https://github.com/pimeleon/pi-router-apps)** — 📦 Cross-Compilation Engine
 *Infrastructure-as-code for edge computing.* A cross-compilation monorepo for Raspberry Pi (armhf/arm64) that builds core services (tor, pihole-FTL, hostapd) from source with rigorous automated security and Trivy scanning.
 
 **[Pimeleon UI](https://github.com/pimeleon/pimeleon-ui)** — 🖥️ Edge Control Plane
 *Modern UI for network orchestration.* A reactive, dashboard-centric interface designed to manage sovereign infrastructure at the edge, leveraging Angular and robust state management.
+
 
 **[Angular Fullstack Pro](https://github.com/lehcode/angular-fullstack-pro-starter)** — 🏗️ Enterprise Architecture
 *The starter I wish I had years ago. And I had.* NestJS + Angular foundation with MongoDB, Redis, i18n—everything configured properly from day one.
@@ -24,8 +28,7 @@ These repositories are my playground, sandbox, and production experiments. Each 
 **[Carvin](https://github.com/lehcode/carvin)** — 🚗 Vehicle Intelligence
 *Real-world problem, practical solution.* Angular/NestJS app that makes sense of VIN codes using NHTSA APIs.
 
-**[SOAKP](https://github.com/lehcode/soakp)** — 🔐 Secure OpenAI API Proxy
-*When you need to talk to AI safely.* JWT authentication, API key rotation, and security patterns that actually work in production.
+
 
 ## 📌 Engineering Philosophy
 
