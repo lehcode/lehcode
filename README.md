@@ -13,7 +13,7 @@ These repositories are my playground, sandbox, and production experiments. Each 
 *The core firmware and software platform for censorship-resistant Rapsberry Pi hardware.* A comprehensive build system that integrates modular services (tor, pihole-FTL, privoxy) into hardened, profile-based Debian builds for high-reliability networking at the edge.
 
 > :bulb: **Visit [Pimeleon.org](https://pimeleon.org)" for details. 
-Give that repo your like, help support your privacy!
+Give that repo a star to help support your network privacy!
 
 **[Pimeleon App Factory](https://github.com/pimeleon/pi-router-apps)** — 📦 Cross-Compilation Engine
 *Infrastructure-as-code for edge computing.* A cross-compilation monorepo for Raspberry Pi (armhf/arm64) that builds core services (tor, pihole-FTL, hostapd) from source with rigorous automated security and Trivy scanning.
