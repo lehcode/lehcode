@@ -51,5 +51,5 @@ I believe great software comes from understanding that technology serves humans,
 *This is where I experiment, learn, and occasionally build something useful.*  
 
 ---
-
+Contact: [egeshi@gmail.com](mailto:egeshi@gmail.com)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcode)](https://github.com/lehcode)
