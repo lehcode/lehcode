@@ -52,7 +52,10 @@ I believe great software comes from understanding that technology serves humans,
 
 ---
 
-Contact: [egeshi@gmail.com](mailto:egeshi@gmail.com)
+## Contact
+
+- **E-mail**: [lehcode@gmail.com](mailto:lehcode@gmail.com)
+- **Telegram**: [@lehcode](https://t.me/lehcode)
 
 ---
 
