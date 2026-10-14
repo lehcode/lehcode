@@ -2,6 +2,8 @@
 
 I architect and build production-ready applications with a focus on **TypeScript**, **security**, and **modern web technologies**. My engineering approach emphasizes clean architecture, developer experience, and systems that scale gracefully—*and fail gracefully!*
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcode)](https://github.com/lehcode)
+
 ## 🚀 What I Build
 
 These repositories are my playground, sandbox, and production experiments. Each project represents a different facet of modern web engineering:
@@ -27,8 +29,6 @@ Give that repo a star to help support your network privacy!
 
 **[Carvin](https://github.com/lehcode/carvin)** — 🚗 Vehicle Intelligence
 *Real-world problem, practical solution.* Angular/NestJS app that makes sense of VIN codes using NHTSA APIs.
-
-
 
 ## 📌 Engineering Philosophy
 
@@ -56,7 +56,3 @@ I believe great software comes from understanding that technology serves humans,
 
 - **E-mail**: [lehcode@gmail.com](mailto:lehcode@gmail.com)
 - **Telegram**: [@lehcode](https://t.me/lehcode)
-
----
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lehcode)](https://github.com/lehcode)
