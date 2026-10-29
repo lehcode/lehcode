@@ -8,6 +8,9 @@ I architect and build production-ready applications with a focus on **TypeScript
 
 These repositories are my playground, sandbox, and production experiments. Each project represents a different facet of modern web engineering:
 
+**[Claudelegate](https://github.com/lehcode/claudelegate)** — 🤝 AI Coding Delegation
+*Claude plans and reviews, a cheaper model writes the code.* A Claude Code plugin with a bundled MCP server that hands scoped tasks to any OpenCode model, whether it's local (Ollama, llama.cpp), behind a LiteLLM proxy or hosted. It checks the diff and runs the tests before reporting back. Published on npm as [`@lehcode/claudelegate`](https://www.npmjs.com/package/@lehcode/claudelegate).
+
 **[N8N Deploy Manager](https://github.com/lehcode/n8n-deploy)** — 🔧 Workflow Orchestration
 *Because deploying workflows shouldn't be a workflow itself.* Python-based automation with SQLite metadata and sensible CLI design.
 
